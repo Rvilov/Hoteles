@@ -1,0 +1,19 @@
+{
+  "name": "boostrap",
+  "version": "1.0.0",
+  "description": "Proyecto con boostrap 4 ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rvilov/Hoteles.git"
+  },
+  "author": "Ricardo Viloria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rvilov/Hoteles/issues"
+  },
+  "homepage": "https://github.com/Rvilov/Hoteles#readme"
+}
